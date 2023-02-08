@@ -1,5 +1,8 @@
 # github_usage
 
+For workflow with AWS Amplify: https://docs.aws.amazon.com/amplify/latest/userguide/team-workflows-with-amplify-cli-backend-environments.html
+
+For EcoLogical github workflow:
 	1. git clone https://github.com/EcoLogicalApp/xxxx
 	2. git checkout -b dev/kuan/add_api
 		a. dev/{yourName}/{the_feature_you_are_working_on}
